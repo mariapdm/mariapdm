@@ -1,4 +1,4 @@
-- 👋 ¡Hola, soy María Paula!
+- 👋 ¡Heya, soy María Paula!
 - 💻 Estudiante de Ingeniería de Sistemas. 
 - 🎵 Cantante y usuario de twitter 25/8.
 - 🌱 En proceso de aprender a programar. 
